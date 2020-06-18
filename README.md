@@ -9,3 +9,5 @@
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   -Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+  #Challenge
+  The county with the most votes cast was Denver
